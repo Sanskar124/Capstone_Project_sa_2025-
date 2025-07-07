@@ -7,8 +7,7 @@
 
 Urban parking is a critical and scarce resource. Static pricing fails to account for real-time fluctuations in demand, resulting in overuse or underutilization of spaces.
 
-This project simulates a real-time **dynamic pricing engine** for urban parking lots using historical and live data. It uses demand modeling, economic theory, and streaming data processing to generate optimal parking prices for city lots across multiple time.
-
+The goal of this project is to simulate and visualize urban parking patterns using a dynamic, interactive model built with Python, Bokeh, Pathway and Colab. The model provides city planners, researchers, and urban developers with insights into parking demand, utilization, and spatial distribution in an urban setting.
 ---
 
 ## Tech Stack
