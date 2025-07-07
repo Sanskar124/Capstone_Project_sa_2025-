@@ -5,9 +5,9 @@
 
 ## Project Overview
 
-Urban parking is a critical and scarce resource. Static pricing fails to account for real-time fluctuations in demand, resulting in overuse or underutilization of spaces.
+Urban parking is a critical and scarce resource. Static pricing fails to account for real-time fluctuations in demand, resulting in overuse or underutilisation of spaces. The goal of this project is to simulate and visualise urban parking patterns using a dynamic, interactive model built with Python, Bokeh, Pathway and Colab. 
+The model provides city planners, researchers, and urban developers with insights into parking demand, utilisation, and spatial distribution in an urban setting.
 
-The goal
 ---
 
 ## Tech Stack
