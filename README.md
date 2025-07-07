@@ -3,7 +3,7 @@
 ---
 
 
-## 🧠 Project Overview
+## Project Overview
 
 Urban parking is a critical and scarce resource. Static pricing fails to account for real-time fluctuations in demand, resulting in overuse or underutilization of spaces.
 
@@ -11,7 +11,7 @@ This project simulates a real-time **dynamic pricing engine** for urban parking 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -22,7 +22,7 @@ This project simulates a real-time **dynamic pricing engine** for urban parking 
 
 ---
 
-## 🧠 Features Implemented
+##  Features Implemented
 
 - 📈 **Model 1:** Simple linear price increase with occupancy  
 - 📊 **Model 2:** Demand function based on occupancy, queue, traffic, events & vehicle type  
@@ -33,7 +33,7 @@ This project simulates a real-time **dynamic pricing engine** for urban parking 
 
 ---
 
-## 🗺️ Architecture Diagram (Mermaid)
+## Architecture Diagram (Mermaid)
 
 ```mermaid
 flowchart TD
